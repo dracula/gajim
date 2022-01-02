@@ -11,8 +11,9 @@ If you are a git user, you can install the theme and keep up to date by cloning 
 Download using the [GitHub .zip download](https://github.com/dracula/gajim/archive/master.zip) option and unzip them.
 
 
-#### Activating theme
+#### Activating theme on Linux
 
-1. Copy dracula.css to ~/.config/gajim/theme/
-2. Restart Gajim
-3. dracula will be available in `Gajim > Preferences > Style > Theme`
+1. Set Dracula GTK/qt theme
+2. Copy dracula.css to ~/.config/gajim/theme/
+3. Restart Gajim
+4. dracula will be available in `Gajim > Preferences > Style > Theme`
