@@ -13,7 +13,7 @@ Download using the [GitHub .zip download](https://github.com/dracula/gajim/archi
 
 #### Activating theme on Linux
 
-1. Set Dracula GTK/qt theme
+1. Set Dracula [GTK](https://draculatheme.com/gtk) or [qt](https://draculatheme.com/qt5) theme
 2. Copy dracula.css to ~/.config/gajim/theme/
 3. Restart Gajim
 4. dracula will be available in `Gajim > Preferences > Style > Theme`
