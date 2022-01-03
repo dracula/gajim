@@ -15,7 +15,7 @@ Download using the [GitHub .zip download](https://github.com/dracula/gajim/archi
 
 For some desktop environments it's enough to activate the Dracula [GTK](https://draculatheme.com/gtk) or [qt](https://draculatheme.com/qt5) theme.
 
-If this is not enough you **also** need this theme:
+If this is not enough you **also** need to:
 
 1. Copy dracula.css to ~/.config/gajim/theme/
 2. Restart Gajim
