@@ -10,7 +10,7 @@ All instructions can be found at [draculatheme.com/gajim](https://draculatheme.c
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/gajim/graphs/contributors).
 
 [![Ricky Lindén](https://avatars.githubusercontent.com/u/59360547?v=3&s=70)](https://github.com/rickylinden) |
 --- |
